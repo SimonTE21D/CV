@@ -1,0 +1,213 @@
+body
+{
+    background-color: grey;
+    margin: 0px;
+    height: 100%;
+}
+.name_div
+{
+    
+    background-image: linear-gradient(cyan, white);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 180px;
+    margin:0px;
+    text-align: center;
+    font-size: xx-large;
+    
+}
+
+.meny
+{
+    display: flex;
+    flex-direction: row;
+    
+    width: 100%;
+    background-color:gray;
+}
+.start_1
+{
+    
+    height: 100px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    color:black;
+    
+    flex: 1;
+    
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+.om_mig_1
+{
+    
+    height: 100px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    color:black;
+    
+    flex: 1;
+}
+.fritid_1
+{
+    
+    height: 100px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    color:black;
+
+    flex: 1;
+}
+.kurser_1
+{
+    
+    height: 100px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    color:black;
+    
+    flex: 1;
+}
+
+.img
+{
+    height: 80px;
+    width: 80px;
+    margin: auto;
+}
+
+.bilder_1
+{
+    
+    height: 300px;
+    width: 100%;
+    margin: 0px;
+    background-color:grey;
+    text-align: center;
+    color: white;
+    
+}
+
+.start_2
+{
+    
+    height: 110px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+    flex: 1;
+    
+}
+.om_mig_2
+{
+    
+    height: 110px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+    flex: 1;
+}
+.fritid_2
+{
+    
+    height: 110px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+    flex: 1;
+}
+.kurser_2
+{
+    
+    height: 110px;
+    background-image: linear-gradient(grey, white);
+    font-size: xx-large;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    
+    flex: 1;
+}
+
+.text_om_mig
+{
+    display: flex;
+    flex-direction: row;
+    
+    height: 250px;
+    width: 100%;
+}
+.text_div1
+{
+    background-color: white;
+    display:inline;
+    margin:auto;
+    text-align: center;
+    width: 45%;
+    height: 100%;
+    
+}
+.text_div2
+{
+     background-color: white;
+     display:inline;
+     margin: auto;
+     text-align: center;
+     width: 45%;
+     height: 100%;
+}
+
+.bild1
+{
+    width: 30%;
+    height: auto;
+}
+.bild2
+{
+    width: 30%;
+    height: auto;
+}
+.bild3
+{
+    width: 30%;
+    height: auto;
+}
+.text_kurser
+{
+    justify-content: center;
+    align-items: center;
+}
